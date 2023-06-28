@@ -1,0 +1,16 @@
+.app{
+    background-color: #f3f2ef;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.app__body{
+    display: flex;
+    margin: auto;
+    width: 58%;
+    /* align-items: center; */
+    justify-content: space-between;
+    
+}
